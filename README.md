@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wally_med1n4
 - 👀 I’m interested in C# and JavaScript projects
-- 🌱 I’m currently learning React Native And Python
+- 🌱 I’m currently learning ReactJs, C#, JavaScript And Python
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 My email is wmedina.sys@gmail.com
