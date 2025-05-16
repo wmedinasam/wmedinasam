@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img height="30" src="[[https://postimg.cc/H8MXhpsX](https://i.postimg.cc/T170hwz7/Pega-Systems-Logo.png)](https://postimg.cc/Ppn3VG89)" alt="Pegasystemls logo"/>
+  <img height="30" src="https://i.postimg.cc/j5Lp5tqx/Pega-Systems-Logo.png" alt="Pegasystemls logo"/>
 </div>
 
 ###
